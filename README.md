@@ -2,7 +2,7 @@
 
 **The App Store Screenshot Generator**
 
-AppScreens is the fastest way to create and automate professional app store screenshots. Trusted by over 80,000 developers and responsible for over 6 million screenshots, AppScreens leverages AI-driven tools and seamless automation to simplify your screenshot workflow, improve your App Store Optimization (ASO), and boost conversions by up to 35%.
+AppScreens is the fastest way to create and automate professional app store screenshots. Trusted by over 150,000 developers and responsible for over 10 million screenshots, AppScreens leverages AI-driven tools and seamless automation to simplify your screenshot workflow, improve your App Store Optimization (ASO), and boost conversions by up to 35%.
 
 <br/>
 
@@ -73,8 +73,8 @@ No more manual uploads:
 
 ## 📊 Proven Results
 
-* Trusted by 80,000+ app developers worldwide.
-* Over 6 million screenshots created.
+* Trusted by 150,000+ app developers worldwide.
+* Over 10 million screenshots created.
 * Recognized by AppRadar, AppSumo, GitHub, iOS Dev Weekly, Product Hunt, Reddit, Stack Overflow, Twitter, YouTube, and FlutterFlow.
 
 <br/>
