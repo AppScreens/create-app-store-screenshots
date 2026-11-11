@@ -1,92 +1,34 @@
-# AppScreens
+# Create App Store and Google Play screenshots with your AI assistant
 
-**The App Store Screenshot Generator**
+[AppScreens](https://appscreens.com/) is an App Store and Google Play screenshot generator that turns real app captures into editable, store-ready designs. Create one set, adapt it for iPhone, iPad and Android, and keep the project ready for your next release.
 
-AppScreens is the fastest way to create and automate professional app store screenshots. Trusted by over 150,000 developers and responsible for over 10 million screenshots, AppScreens leverages AI-driven tools and seamless automation to simplify your screenshot workflow, improve your App Store Optimization (ASO), and boost conversions by up to 35%.
+**AppScreens MCP is in private testing.** Ask the assistant you already use to build your app to create a full screenshot set. Give it your captures and the benefits you want to highlight. Review the previews in chat, then refine the set with your assistant or open the same project in the AppScreens editor.
 
-<br/>
+[Explore AppScreens MCP](https://appscreens.com/app-store-screenshots-mcp) · [Browse screenshot templates](https://appscreens.com/templates)
 
-## 🔗 Quick Links
+## What can an AI agent do with AppScreens MCP?
 
-* 🌐 Homepage: [appscreens.com](https://appscreens.com)
-* 🎨 Templates: [appscreens.com/templates](https://appscreens.com/templates)
-* 💰 Pricing: [appscreens.com/pricing](https://appscreens.com/pricing)
+In private testing, AppScreens uses the Model Context Protocol (MCP) to connect Claude Code, Claude Desktop, Codex and Cursor to editable screenshot projects. Your account determines which of these steps your agent can take.
 
-<br/>
+1. **Create a set from real app captures.** Share your audience, brand and key features. Your agent can choose a template, place your captures and draft captions that explain why each feature matters.
+2. **Prepare sizes and languages.** Add translations and market-specific captures to the same project. Preview the layouts for the devices and languages you plan to ship.
+3. **Export files or send them to the store.** Export PNG or JPEG screenshots. With a connected store account and upload access, your agent can send the files to App Store Connect or Google Play Console after you approve the screenshots and destination. Submit and publish your app in the store console.
+4. **Update the set for your next release.** Replace a changed screen, revise a caption or add a language. Export the affected assets from your saved project.
 
-## 📈 Key Benefits
+**Example prompt**
 
-* **Save Time**: Generate comprehensive sets of screenshots in minutes.
-* **Maximize ASO**: AI-powered captions and design elements optimized for maximum visibility and conversions.
-* **Automated & Responsive**: AI-driven screenshots auto-resize for phones, tablets, Vision Pro, smartwatches, and more.
-* **Localization Made Easy**: Automatically translate screenshots into 80+ languages, including RTL support.
-* **One-Click Upload**: Instantly upload to App Store Connect and Google Play Console, including all localized versions.
-* **Creative Control**: Customize screenshots using hundreds of premium templates, panoramic backgrounds, dynamic frames, custom fonts, layers, emojis, and more.
-* **Always Current**: Continuously updated to support the latest devices and app store guidelines.
+> Use the captures from my latest build to create App Store screenshots for my meal planner. Lead with how it makes weekly planning easier, then show the recipe and grocery list screens. Preview the iPhone set in English and German so I can review the captions and layout.
 
-<br/>
+## What is the AppScreens skill?
 
-## 🚀 Get Started
+The AppScreens agent skill guides your assistant through the screenshot workflow, from choosing real app captures to checking previews and preparing a release. The MCP connection gives the assistant access to the AppScreens tools that do the work.
 
-1. Visit the **[Homepage](https://appscreens.com)** to sign up free.
-2. Choose from hundreds of professionally designed **[Templates](https://appscreens.com/templates)**.
-3. Import screenshots, customize with AI-driven captions, and localize effortlessly.
-4. Export or upload directly to App Store Connect & Google Play Store, done in minutes.
+The skill repository is private during testing. See the [AppScreens agent skill on GitHub](https://github.com/AppScreens/app-store-screenshots-skill) if you have access, or the [public MCP overview](https://appscreens.com/app-store-screenshots-mcp) for supported clients and access status.
 
-<br/>
+## How do I make app store screenshots today?
 
-## 🤖 AI-Enhanced Screenshots
+[Start a free project in AppScreens](https://appscreens.com/) for a first release or a quick listing update. Choose a template or start blank, add your app captures and captions, then preview and export your screenshots for the store. For larger releases, use [screenshot localization](https://appscreens.com/localize-app-store-screenshots) and [direct store uploads](https://appscreens.com/upload-app-store-screenshots) on supported plans.
 
-Create high-converting screenshots with our advanced ASO AI that:
-
-* Automatically generates professional, optimized captions from your app’s metadata.
-* Offers tailored caption styles and tones (friendly, persuasive, inspirational).
-* Provides instant localization into multiple languages for global appeal.
-
-<br/>
-
-## 📲 One-Click App Store Uploads
-
-No more manual uploads:
-
-* Instantly publish screenshots to App Store Connect and Google Play Console.
-* Automatically handle bulk uploads and multilingual versions.
-* Ensure flawless, pixel-perfect screenshots every time.
-
-<br/>
-
-## 🌎 Optimized for Global Reach
-
-* Automatically resize and format for all major app stores: Apple, Google, Microsoft, Huawei, Amazon, and Chrome.
-* AI-powered bulk translation and localization for 80+ languages.
-* Dedicated ASO tools to enhance app visibility and increase downloads.
-
-<br/>
-
-## 🎨 Limitless Customization
-
-* **Device Mockups**: Choose from realistic, clay, 3D, dynamic, and frameless styles.
-* **Advanced Text Options**: Over 1500 Google Fonts, custom uploads, emojis, auto-sizing text.
-* **Flexible Backgrounds**: Panoramic images, gradients, overlays, and shadows.
-
-<br/>
-
-## 📊 Proven Results
-
-* Trusted by 150,000+ app developers worldwide.
-* Over 10 million screenshots created.
-* Recognized by AppRadar, AppSumo, GitHub, iOS Dev Weekly, Product Hunt, Reddit, Stack Overflow, Twitter, YouTube, and FlutterFlow.
-
-<br/>
-
-## 🚩 Built by Developers, for Developers
-
-AppScreens simplifies your workflow, allowing you to focus on building great apps while we handle the complexities of screenshot design and ASO.
-
-<br/>
-
-### 📥 Try AppScreens Today
-
-Join thousands of successful developers already saving time and boosting app downloads with AppScreens.
-
-👉 [Start Creating Screenshots](https://appscreens.com)
+- [App Store screenshot maker for iPhone and iPad](https://appscreens.com/iphone-ipad-screenshot-maker)
+- [Google Play screenshot generator for Android](https://appscreens.com/google-play-screenshot-generator)
+- [AppScreens pricing and plan limits](https://appscreens.com/pricing)
