@@ -2,9 +2,19 @@
 
 [AppScreens](https://appscreens.com/) turns real app captures into editable screenshots for the App Store and Google Play. Add captions that explain why your app is useful, make the design your own, and prepare the sizes and languages you need for release.
 
-Start with a template or a blank layout. Work in the visual editor, use guided AI for captions, or connect your AI assistant to the same editable project. Create your selected Apple and Android outputs, preview the results, then download the files or upload to connected stores on a supported plan. Keep the project ready for the next update.
+Start free with a template or a blank layout. Upload your app screens, edit captions and design, then preview and export the sizes you need. You can also upload screenshots to connected stores on a supported plan. Keep the editable project ready for your next release.
 
-**[Create screenshots free](https://appscreens.com/?utm_source=github&utm_medium=referral&utm_campaign=create-app-store-screenshots&utm_content=readme-start)** · **[Build your AI prompt](https://appscreens.com/app-store-screenshots-mcp#mcp-first-prompt)** · [Browse templates](https://appscreens.com/templates) · [Developer documentation](https://appscreens.com/developers)
+**[Create screenshots free](https://appscreens.com/?utm_source=github&utm_medium=referral&utm_campaign=create-app-store-screenshots&utm_content=readme-start)** · **[Connect your AI agent](https://appscreens.com/developers/connect)** · **[Get the skills](https://appscreens.com/developers/skills)** · [Browse templates](https://appscreens.com/templates)
+
+## Create screenshots with your AI agent
+
+Use Claude, Codex or Cursor to create and update your screenshots in a conversation. AppScreens skills guide screenshot design, inspiration, audits and release workflows. The MCP connection lets your agent work with editable projects, render previews and prepare exports. You can open the same project in the visual editor to make changes yourself. Some skills, including inspiration and screenshot audits, also work without connecting an account.
+
+> Turn these app captures into five iPhone screenshots using my branding. Show me a preview, then add a German version.
+
+All plans include MCP access. Free supports previews with Free features; localization, cloud exports and direct store uploads require a supported paid plan. [See pricing](https://appscreens.com/pricing).
+
+[Build a prompt for your app](https://appscreens.com/app-store-screenshots-mcp#mcp-first-prompt)
 
 [![First 5K screenshot concept with runner artwork, iPhone and Apple Watch frames, and layered interface details](https://appscreens.com/assets/images/blog/posts/agent-guides/first-5k-screenshots.jpg)](https://appscreens.com/app-store-screenshots-mcp#mcp-first-prompt)
 
